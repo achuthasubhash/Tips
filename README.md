@@ -104,4 +104,3 @@ In essence, it means you can do most of the things that you can do in a Jupyter 
 
 49.Dabl has a built-in function that will automatically detect data types and quality issues and apply appropriate pre-processing to a dataset to prepare it for machine learning
 
-50.
