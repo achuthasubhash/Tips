@@ -79,3 +79,29 @@ In essence, it means you can do most of the things that you can do in a Jupyter 
 36.pip install faker  (Create our own Dataset)
 
 37.Python debugger    %pdb
+
+38.𝚟𝚘𝚒𝚕𝚊-From notebooks to standalone web applications and dashboards https://voila.readthedocs.io/en/stable/  https://github.com/voila-dashboards/voila
+
+39.𝚝𝚜𝚕𝚎𝚊𝚛𝚗  for timeseries data
+
+40.texthero text-based dataset in Pandas Dataframe quickly and effortlessly  https://github.com/jbesomi/texthero
+
+41.𝚔𝚊𝚕𝚎𝚒𝚍𝚘(web-based visualization libraries like your Jupyter Notebook with zero dependencies)
+
+42.Vaex- Reading And Processing Huge Datasets in seconds
+
+43.Uber’s Ludwig is an Open Source Framework for Low-Code Machine Learning
+
+44.Google's TAPAS, a BERT-Based Model for Querying Tables Using Natural Language
+
+45.RAPIDS  open GPU Data Science
+
+46.pyforest Lazy-import of all popular Python Data Science libraries. Stop writing the same imports over and over again.
+
+47.Modin Get faster Pandas with Modin
+
+48.faster Hyper Parameter Tuning    NatureInspiredSearchCV
+
+49.Dabl has a built-in function that will automatically detect data types and quality issues and apply appropriate pre-processing to a dataset to prepare it for machine learning
+
+50.
