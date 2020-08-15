@@ -1,1 +1,3 @@
 # Tips
+
+FROM VARIOUS RESOURCES
