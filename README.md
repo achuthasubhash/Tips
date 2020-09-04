@@ -1,5 +1,8 @@
 # Tips
 
+credit: all corresponding resources
+
+
 FROM VARIOUS RESOURCES
 1. H20.ai
 
